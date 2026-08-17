@@ -51,3 +51,9 @@ https://demo.dialerking.com/
 <p>
 DialerKing develops smart contact center Software solutions that help businesses improve calling efficiency, simplify workflows, and manage customer communications more effectively.
 </p>
+
+<img width="4000" height="1830" alt="Custom CRM Admin Screen" src="https://github.com/user-attachments/assets/e8162077-366c-47ce-9a9d-115ede431a34" />
+
+<img width="4000" height="2234" alt="ACRM dialer admin login" src="https://github.com/user-attachments/assets/d60ff47e-6c8a-4948-a520-0c7c3bafe93a" />
+
+
